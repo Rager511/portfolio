@@ -47,9 +47,6 @@ export default function Languages() {
               ></div>
             </div>
 
-            <div className="absolute right-0 -mt-1 text-xs text-base-content/50 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-              {lang.level}%
-            </div>
           </div>
         ))}
       </div>
