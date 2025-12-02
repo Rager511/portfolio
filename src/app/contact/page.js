@@ -10,7 +10,7 @@ export const metadata = {
 function Contact() {
     return (
         <>
-            <div className="md:w-[700px] w-[100%] mt-5 p-4">
+            <div className="md:w-[700px] w-[100%] mt-10 p-4">
                 <main className="flex flex-col gap-2">
                     <h1 className="text-xl font-medium before:content-['>'] before:mr-1">
                         Contact Me
