@@ -19,7 +19,7 @@ export default function Profile() {
   };
 
   return (
-    <>
+    <div className="mt-5">
       <img
         src="/me.jpg"
         className="w-[120px] h-[120px] rounded-full object-cover object-center"
@@ -97,6 +97,6 @@ export default function Profile() {
           </div>
         )}
       </div>
-    </>
+    </div>
   );
 }
