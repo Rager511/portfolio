@@ -49,7 +49,10 @@ const skillsData = {
     { name: "Jest", icon: "/jest-c.svg" },
     { name: "Junit", icon: "/junit-c.svg" },
     { name: "Postman", icon: "/postman-c.svg" },
-    { name: "Pytest", icon: "/pytest-c.svg" }
+    { name: "Pytest", icon: "/pytest-c.svg" },
+    { name: "Selenium", icon: "/selenium.svg" },
+    { name: "Jira", icon: "/jira.svg" },
+    { name: "Power BI", icon: "/powerbi.svg" }
   ],
 
   frontend: [
@@ -101,7 +104,10 @@ const skillsData = {
     { name: "Jest", icon: "/jest-c.svg" },
     { name: "Junit", icon: "/junit-c.svg" },
     { name: "Postman", icon: "/postman-c.svg" },
-    { name: "Pytest", icon: "/pytest-c.svg" }
+    { name: "Pytest", icon: "/pytest-c.svg" },
+    { name: "Selenium", icon: "/selenium.svg" },
+    { name: "Jira", icon: "/jira.svg" },
+    { name: "Power BI", icon: "/powerbi.svg" }
   ],
 
   uiux: [
