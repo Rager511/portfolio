@@ -58,21 +58,21 @@ export const projects = {
         {
             title: "Predictive Revenue & Churn Intelligence Platform",
             description:
-                "Developed a SaaS intelligence platform forecasting customer churn and revenue trends with ML microservices using Java Spring Boot, React, PostgreSQL, and FastAPI.",
-            tags: ["Java", "Spring Boot", "React", "PostgreSQL", "FastAPI", "AI/ML"],
+                "SaaS platform forecasting customer churn and revenue trends using ML microservices (FastAPI). Deployed in a cloud-native setup using Docker and Kubernetes for scalable model serving.Achieved 89% churn-risk classification accuracy and generated monthly revenue forecasts within ±7% error margin.",
+            tags: ["Java", "Spring Boot", "React", "PostgreSQL", "FastAPI", "AI/ML","Docker", "Python"],
             link: ""
         },
         {
             title: "E-commerce Application",
             description:
-                "Built a full-featured platform with dynamic product search, automated emails, and custom admin dashboard using Python, Django, SQLite, and Beautiful Soup.",
-            tags: ["Python", "Django", "SQLite", "Web Scraping"],
+                "Developed a complete e-commerce system with dynamic product search, automated email workflows, competitor price scraping, and a custom admin dashboard.Improved product search relevance by ~35%, automated 80% of manual catalog updates.",
+            tags: ["Python", "Django", "SQLite", "MyBeautifulSoup"],
             link: ""
         },
         {
             title: "Machine Learning Model for Smoking Status Prediction",
             description:
-                "Built an ML model predicting smoking status from biological signals with 97% accuracy using Scikit-learn, Pandas, and NumPy.",
+                "Designed a machine learning pipeline to predict smoking status from biosignal features with cross-validated 97.3% accuracy and 95% F1-score. Reduced model inference time to <10 ms through feature optimization.",
             tags: ["Python", "Scikit-learn", "Pandas", "NumPy", "Machine Learning"],
             link: ""
         }
@@ -81,8 +81,22 @@ export const projects = {
         {
             title: "Web and Mobile School Transportation Application",
             description:
-                "Developed a cross-platform app with real-time bus tracking, route optimization, and push notifications using React.js, React Native, Spring Boot, and MySQL.",
+                "Built a web and mobile application enabling real-time bus tracking, optimized routes, and push notifications for parents and drivers. Reduced average route time by 12% and decreased parent “location uncertainty” complaints by ~40%.",
             tags: ["React.js", "React Native", "Spring Boot", "MySQL"],
+            link: ""
+        },
+        {
+            title: "Vehicle Rental Management System",
+            description:
+                "Built a full-featured vehicle rental system with web and desktop interfaces, managing clients, employees, vehicles, rentals, payments, and reporting. Implemented secure authentication, role-based access, PDF/QR code generation, and real-time availability tracking. Reduced booking errors by ~30% and improved administrative efficiency by ~35%.",
+            tags: ["C#", "ASP.NET MVC", "WPF", "SQL Server"],
+            link: ""
+        },
+        {
+            title: "Creation of a Digital Management and Interaction Platform for MSC",
+            description:
+                "Built a web platform to manage members, pricing, activities, and internal roles for Morocco Sports Consulting. Reduced administrative workload by ~30% and improved data accuracy by ~25%.",
+            tags: ["PHP", "JavaScript", "XAMPP", "MySQL"],
             link: ""
         }
     ]
