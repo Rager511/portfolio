@@ -5,12 +5,12 @@ import React from "react";
 const languages = [
   {
     name: "English",
-    level: 90, 
+    level: 100, 
     description: "Fluent"
   },
   {
     name: "French",
-    level: 90,
+    level: 100,
     description: "Fluent"
   },
   {
@@ -20,8 +20,8 @@ const languages = [
   },
   {
     name: "Chinese",
-    level: 30,
-    description: "HSK2 – Beginner | score: (141/200)"
+    level: 40,
+    description: "HSK2 – Beginner | score: (163/200)"
   }
 ];
 
