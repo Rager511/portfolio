@@ -95,7 +95,7 @@ export const projects = {
         {
             title: "Creation of a Digital Management and Interaction Platform for MSC",
             description:
-                "Built a web platform to manage members, pricing, activities, and internal roles for Morocco Sports Consulting. Reduced administrative workload by ~30% and improved data accuracy by ~25%.",
+                "Built a web platform to manage members, pricing, activities, and internal roles for MSC. Reduced administrative workload by ~30% and improved data accuracy by ~25%.",
             tags: ["PHP", "JavaScript", "XAMPP", "MySQL"],
             link: ""
         }
